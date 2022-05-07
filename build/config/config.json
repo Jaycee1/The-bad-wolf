@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x76a83B57A41A0F61757e9bf4ADb54F2156d05A1e",
+  "SCAN_LINK": "https://polygonscan.com/address/0x76a83B57A41A0F61757e9bf4ADb54F2156d05A1e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Bad Wolf",
+  "SYMBOL": "TBW",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 51000000000000000000,
+  "DISPLAY_COST": 51,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-bad-wolf",
+  "SHOW_BACKGROUND": true
+}
